@@ -2,14 +2,14 @@
 <g clip-path="url(#clip0_2001_96)">
 <rect width="552" height="330" rx="14" fill="#13162D"/>
 <rect width="770" height="377" transform="matrix(1 0 0 -1 -126 353)" fill="url(#pattern0_2001_96)"/>
-<rect x="10.6711" y="47" width="557.081" height="319.73" rx="10" transform="rotate(2.63 10.6711 47)" fill="url(#pattern1_2001_96)"/>
+<rect x="59.8995" y="30.1368" width="449.906" height="319.73" rx="10" transform="rotate(2.63 59.8995 30.1368)" fill="url(#pattern1_2001_96)"/>
 </g>
 <defs>
 <pattern id="pattern0_2001_96" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_2001_96" transform="matrix(0.000776398 0 0 0.00158575 0 -0.000302733)"/>
 </pattern>
 <pattern id="pattern1_2001_96" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image1_2001_96" transform="matrix(0.000607986 0 0 0.00105932 -0.0772823 0)"/>
+<use xlink:href="#image1_2001_96" transform="matrix(0.000752818 0 0 0.00105932 -0.2148 0)"/>
 </pattern>
 <clipPath id="clip0_2001_96">
 <rect width="552" height="330" rx="14" fill="white"/>
