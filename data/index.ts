@@ -90,7 +90,7 @@ export const projects = [
       "/nodejs.svg",
       "/ts.svg",
     ],
-    link: "https://github.com/adrianhajdin/zoom-clone",
+    link: "https://github.com/Claudiu-c/mern-food-ordering-app-frontend",
   },
   {
     id: 3,
@@ -98,7 +98,7 @@ export const projects = [
     des: "Join the conversation with Threads app, where sharing thoughts and connecting with others is fast, fun, and effortless.",
     img: "/threads.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/next.svg", "/mongodb.svg"],
-    link: "https://github.com/adrianhajdin/ai_saas_app",
+    link: "https://github.com/Claudiu-c/threads_app",
   },
 ];
 
