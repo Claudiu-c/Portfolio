@@ -149,9 +149,13 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/Claudiu-c",
+    label: "GitHub",
   },
   {
-    id: 3,
+    id: 2,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/capatana-claudiu-2333191ba/",
+    label: "LinkedIn",
   },
 ];
